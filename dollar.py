@@ -40,7 +40,6 @@
 # (name, score) = r.recognize([(5, 6), (7, 12), ... ])
 #
 
-import numpy as np
 import math
 import operator
 
